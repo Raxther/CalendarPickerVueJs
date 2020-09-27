@@ -1,4 +1,4 @@
-# test
+# CalendarPicker
 
 ## Project setup
 ```
